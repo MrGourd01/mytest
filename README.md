@@ -34,7 +34,7 @@ Github.com/huaweicloudDocs
 
 我们衷心的欢迎所有华为云的最终用户、合作伙伴、开发者、文档工程师等供稿，帮助华为云共同打造丰富且易用的文档内容。
 
-供稿人需要注册并登录GitHub社区。登录后可以直接在huaweicloudDocs中找到相应的文档，或者通过华为云帮助中心\(https://support.huaweicloud.com/index.html\)访问该文档，并通过文档页面右上角的“编辑”链接跳转至该文档的GitHub源。找到文档并修改后后，可直接将您修改的内容提交给华为云的项目负责人。审核通过后，您供稿的内容将在GitHub社区和华为云帮助中心呈现。
+供稿人需要注册并登录GitHub社区。登录后可以直接在huaweicloudDocs中找到相应的文档，或者通过华为云帮助中心(https://support.huaweicloud.com/index.html)访问该文档，并通过文档页面右上角的“编辑”链接跳转至该文档的GitHub源。找到文档并修改后后，可直接将您修改的内容提交给华为云的项目负责人。审核通过后，您供稿的内容将在GitHub社区和华为云帮助中心呈现。
 
 ## 语言规范<a name="section19476332413"></a>
 
